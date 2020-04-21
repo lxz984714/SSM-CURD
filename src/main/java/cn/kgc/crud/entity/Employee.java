@@ -20,6 +20,8 @@ public class Employee {
 
     private String  idPicPath;//单文件上传
 
+    private  String app;
+
     public String getIdPicPath() {
         return idPicPath;
     }
